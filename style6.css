@@ -32,7 +32,7 @@ form{
 
 table 
 {
-    color: rgb(255, 251, 251);
+    color: rgb(5, 4, 4);
     padding: 10px;
 }
 
@@ -52,3 +52,19 @@ p{
 a{
     color: rgb(243, 246, 248);
 }
+
+th{
+    background-color: rgb(255, 255, 255); /*
+    definir uma cor de fundo para as
+    respostas na tabela */
+
+    padding: 10px;
+}
+
+td{
+    background-color: rgb(255, 253, 253);
+
+    padding: 10px;
+}
+
+
